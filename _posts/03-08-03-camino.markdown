@@ -1,0 +1,5 @@
+---
+layout: post
+title: Camino 
+---
+<p>I'm involved in the <a href="http://mozilla.org/projects/camino">Camino </a>project for Mozilla. It's a pretty face for the Gecko engine basically. Recently the whole Mozilla project was transferred to a new foundation. <a href="http://weblogs.mozillazine.org/pinkerton/">Mike Pinkerton </a>was moved to a different job at AOL but he's got the <a href="http://mozilla.org/projects/camino/#Download">nightly builds </a>going again and I've been testing out David Haas' <a href="http://bugzilla.mozilla.org/show_bug.cgi?id=212630">rewrite </a>of the bookmarks manager. Looks good so far. It includes some novel features that I think might be cool, like a top-ten list, and Address Book integration. Could you manage all your bookmarks in the Address Book? </p>

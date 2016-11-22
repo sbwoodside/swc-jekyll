@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+Lots of updates. www.coopstudent.org (the Open CECS Online) website appears to be dead, so I removed that link. I revised my sidebar so it should be more logical now. The old links there are now on the links page, and I put up some new useful links. 

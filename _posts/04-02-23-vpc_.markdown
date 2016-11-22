@@ -1,0 +1,5 @@
+---
+layout: post
+title: VPC 6.1
+---
+<p>I just installed Virtual PC 6.1 and it's actually faster than 5 was by quite a bit. Also my google pagerank is 6/10. Is that high? I can't remember what it was last time I checked. </p>

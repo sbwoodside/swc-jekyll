@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+<p>Just successfully moved this whole site into CVS, canned the site, checked it out and here it is. Now I can access the cvs from home and it'll be <b>so much </b>easier to do updates and also I don't have to be paranoid about losing stuff anymore. Cool. Also, I added the <a href="http://creativecommons.org/">Creative Commons </a>license (Attribution) to my <a href="http://simonwoodside.com/projects/ict/">ICT essays </a>. Also, yes I know this site doesn't verify as HTML right now, because some of my custom XML tags are still showing up. Keep bothering me and I'll fix it eventualy. </p>

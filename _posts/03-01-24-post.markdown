@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+<p>Two new chimera mockups, <a href="http://simonwoodside.com/dev/chimera/mockup5c1.gif">"Mockup5C1" </a>and <a href="http://simonwoodside.com/dev/chimera/mockup5c2.gif">"Mockup5C2" </a>... they are both the same, the second one shows how the "Others..." QuickMark works. Comments welcome! </p><p><b>Update: </b>Are you ready? for ... <img src="/weblog/images/2003/qimera.png" width="254" height="100" border="0" align="middle" alt="Qimera"/></p>

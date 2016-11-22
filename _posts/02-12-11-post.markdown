@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+Just completed a major overhaul of the way my styles are organized - I factored the style sheets out so that they are more encapsulated. Also I fixed up my huge Edion Handbook so that it's XHTML compliant and properly styled. Also my webcounter claims I'm about to have my 5000th hit. (Analog says I've had more.)

@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+<p>Heh... this site was static content for like a week there because somehow AxKit got hosed when paul tried to upgrade it using debian apt or dselect or whatever. Man! What a nightmare. The only reason the site was still here was it was delivering from cache -- content generation was totally broken. Now I've got all the code loaded into my home directory and all of the libraries and perl modules are under my home directory so now I have total control and I was able to hack it back into working shape after a few days and some fudging with the server .conf with paul. It's back!!! </p><p>(and the wiki's on openict.net too ;-) </p>

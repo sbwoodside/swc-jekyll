@@ -1,0 +1,5 @@
+---
+layout: post
+title: Yay! 
+---
+<p>I just did some major updating in the "D&amp;D subsite" of this website and amazingly enough, after moving around a LOT of files (seriously) everything still works. And, the <a href="http://simonwoodside.com/dnd/campaign/sourcebook.html">Edion Sourcebook </a>is now 100% XML ... DocBook that is. Well, my aim is for Simplified DocBook but I used an automatic converter so I'm not sure. The docbook stylesheet set is huge and it takes it a few seconds to convert the docbook to XHTML but due to the magic of Axkit's caching there's no delay as long as the text doesn't change. </p><p>Anyway. </p>

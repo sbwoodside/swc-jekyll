@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+Updated the design a bit. Maybe this will make it a bit easier to read. 

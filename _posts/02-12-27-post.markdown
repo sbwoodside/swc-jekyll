@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+<a href="/dev/axkit/howto.html">How to install AxKit </a>(and by dependency, <a href="/dev/axkit/howto.html#install_sablot">Sablotron </a>) on Mac OS X 10.2.

@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+<p>Now read this ... Steve Deering gave a brilliant talk at the 51st IETF meeting called <a href="http://www.ietf.org/proceedings/01aug/slides/plenary-1/index.htm">Watching the Waist of the Protocol Hourglass </a>. <a href="http://www.iab.org/Documents/hourglass-london-ietf.pdf">(PDF) </a>Fundamentally it's about end-to-end networking, which relies upon a very simple, ubiquitous protocol to run the internet. A protocol that's called (believe it or not) the Internet Protocol. IP is very important. Then, when you're done reading the incredible slides, go over to <a href="http://videolab.uoregon.edu/events/ietf/ietf51.html">this page </a>and watch the video! 22 minutes, <a href="ftp://limestone.uoregon.edu/pub/videolab/video/ietf51/ch2/ietf51_plenary_8iab-deering_hourglass.rm">Real </a>, <a href="ftp://limestone.uoregon.edu/pub/videolab/video/ietf51/ch2/ietf51_plenary_8iab-deering_hourglass.mpg">MPEG-1 </a>. </p>

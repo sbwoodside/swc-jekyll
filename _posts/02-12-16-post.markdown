@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+Tee hee. I finally have <a href="http://www.axkit.org/index.xml">AxKit </a>working on my home computer and pretty soon on this server too. 

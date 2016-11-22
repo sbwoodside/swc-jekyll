@@ -1,0 +1,5 @@
+---
+layout: post
+title: W believes 
+---
+<div style="float: left; margin-right: 10px;"><a href="/weblog/images/bush_believes/bush_believes.gif"><img src="/weblog/images/bush_believes/bush_believes_small.gif" alt="bush" /></a></div><p>After reading <a href="http://www.nytimes.com/2004/10/17/magazine/17BUSH.html">this Sunday Times article </a>by Ron Suskind I realized that the best explanation for W's behaviour is that he believes what he says. In this light, I put together this <a href="http://en.wikipedia.org/wiki/Information_graphics">information graphic </a>of what he believes the world to be like. I don't endorse this world view; it is constructed based on the best available evidence from transcripts of his speeches and media reports. I do not believe that any of this material is controversial. If you have additional information, please <a href="mailto:sbwoodside@yahoo.com?subject=W%20believes">email me </a>. </p><p>Available in <a href="/weblog/images/bush_believes/bush_believes.pdf">PDF 128K </a>and <a href="/weblog/images/bush_believes/bush_believes.gif">GIF 80K </a>. Creative Commons. </p>

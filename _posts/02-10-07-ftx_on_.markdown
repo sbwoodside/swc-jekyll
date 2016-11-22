@@ -1,0 +1,5 @@
+---
+layout: post
+title: FTX on 10.1.5
+---
+<p>Circumstantial evidence (in the form of emails from users...) indicates that FTX 1.5 didn't work very well on Mac OS X 10.1.5. Well, that's what I get for upgrading all of my computers to 10.2. However with me making fixes and sending off test copies to the helpful users, it seems I've squished the bugs for now. Hence the updated <a href="/fractaltrees/">FractalTrees 1.5.1 </a>release. Oh yeah, and it's open source software now too ;-) </p>

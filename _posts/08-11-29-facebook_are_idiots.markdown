@@ -1,0 +1,5 @@
+---
+layout: post
+title: Facebook are idiots
+---
+<p>In my email:</p><blockquote><p>From: root+f90z4fj9@facebookmail.com</p><p>Unfortunately, the settings that control which email notifications get sent to you were lost. We're sorry for the inconvenience.</p><p>To reset your email notification settings, go to:</p><p>http://www.facebook.com/editaccount.php?notifications</p><p>Thanks,<br />The Facebook Team</p></blockquote><p>So this is spam right? Blatant phishing? But wait, the URL is real, not fake. I still don't believe it, so I go to Google. <a href="http://www.techcrunch.com/2008/11/29/facebook-loses-members-notification-settings-what-will-they-lose-next/">Apparently this is real</a>.</p><p>OK, so the good news is that FB sent the message as plain text, but since most email programs auto convert to links, that's not helping. Every FB user in the world is now being desensitized to phishing.</p><p>They should have said "log into facebook, and go to this or that tab to fix"</p><p>Of course, why did they lose everyone's settings in the first place.</p>

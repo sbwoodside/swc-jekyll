@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+<p>Apparently people are having trouble viewing this site on windows IE. What can I say? It's web standards compliant. Anyway, I added a little blurb to the top of the page that only shows up for me on IE for OS X, but is hidden in Mozilla/Chimera (i.e. webstandards compliant browsers). Hopefully it will show up for IE win people too. Also, I added a 404 page, that you might like. Or you might not. Anyway, you can see it by entering gibberish into the URL bar after the simonwoodside.com/ </p>

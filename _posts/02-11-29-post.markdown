@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+I just moved the IT@UW blog into it's <a href="/projects/ituwblog/">own directory </a>. Change your bookmarks, yada, yada, yada. 

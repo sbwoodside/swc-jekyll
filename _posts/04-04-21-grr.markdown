@@ -1,0 +1,5 @@
+---
+layout: post
+title: grr 
+---
+<p>I just spent like an hour debugging this stupid problem with a resource file for symbian. Turns out when you get this error: </p><pre>&lt;empty&gt;(0) : Link name not found </pre><p>you have avkon.rsg included BEFORE avkon.rh. You need to include them in the OTHER order. At least now it will be in google. </p>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+I've updated the style sheet so it works properly on Netscape now. 

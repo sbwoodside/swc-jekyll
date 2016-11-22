@@ -1,0 +1,5 @@
+---
+layout: post
+title: FTX 1.5
+---
+<p>Check out the Fractal Trees section of the site for a <a href="/fractaltrees/">new version of FractalTrees X </a>. The new version 1.5 is lots more fun to play with. Written in the only practical GUI application environment, Cocoa. </p>

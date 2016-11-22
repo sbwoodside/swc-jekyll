@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+I revamped the <a href="/dnd/">D&amp;D section </a>of the site a lot because there was starting to be too much stuff there for one page. Now it's a subsite. There's also new material there that I'm not going to talk about here. 

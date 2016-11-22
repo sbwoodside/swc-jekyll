@@ -1,0 +1,5 @@
+---
+layout: post
+title: panix.com hijacked 
+---
+Anyone who's been around the internet since before the web will know the name Panix well as they were one of the very first ISPs ever. Well, their domain <a href="http://panix.com">panix.com </a>was hijacked yesterday by means currently unknown (see <a href="http://panix.net">panix.net </a>). Check the link for NANOG thread. If this was a cracker attack it indicates a very serious infrastructural problem. If it was an administrative attack it indicates a huge domain administration problem. Either way, anyone who owns a domain should be very worried, and everyone on the internet, because: <ul><li>Panix is going to go out of business if this isn't fixed ASAP </li><li>All of Panix's users are having their userIDs and passwords stolen as we speak </li><li>All email to Panix's users is being intercepted as we speak </li></ul>Panix has a large and sophisticated user base, and those passwords could potentially be used to comprimise a wide range of systems. The obvious solution at the moment is technical - the DNS operators should revert the domain ASAP. 

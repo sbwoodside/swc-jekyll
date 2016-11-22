@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+<p>I finally grokked the difference between XSL and XSLT. XSLT is a subset of XSL that is just for transforming XML into different XML. That's basically what I'm using (XSLT). XSL adds a lot of other stuff for styling documents. I'm not using any of that (right now anyway...) and plan to continue to use CSS for presentation purposes. </p>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+<p>If you're coming here from slashdot you might want to look at this other site I'm involved in <a href="http://www.openict.net/">OpenICT.net </a>. </p>

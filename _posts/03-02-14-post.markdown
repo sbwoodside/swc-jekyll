@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+<p>Ceci n'est pas une pipe -- enfin je le comprends. C'etait vraiement quelques semaines que j'ai venue de comprendre le message de cette image. Voila un collection brillant des peintures Magritte, debutez-vous <a href="http://dubhe.free.fr/gpeint/magritte6.html">ici </a>mais prenez soin de faire voire toutes les images. </p><p>I finally understood the painting "Ceci n'est pas une pipe" (This is not a pipe) a few weeks ago. Now check out this awesome collection of Magritte paintings. Start <a href="http://dubhe.free.fr/gpeint/magritte6.html">here </a>but make sure to look at all of them. </p>

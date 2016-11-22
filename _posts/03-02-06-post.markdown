@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+<p>Yeah... just made some fairly dramatic changes to the XSLT for the blog... I managed to get rid of all the custom XML tags that were being spewed as part of the HTML output, so we're a little closer to validation here. Now I just have a small problem of IDs not being well-formed. </p>

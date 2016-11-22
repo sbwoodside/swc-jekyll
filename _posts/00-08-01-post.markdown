@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+I just redesigned the look of the page. Like it? I do! 

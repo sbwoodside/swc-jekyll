@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+<p>Some thoughts on <a href="projects/ict/">Using the open source model for (ICT) development </a>. That would be information and communications technology, and the development in this case is the "international" kind. </p>

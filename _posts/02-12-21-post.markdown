@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+I've been tinkering with the CSS to try to get it to work in IE/Windows. With the help of friendly people from the <a href="http://www.css-discuss.org/">css-discuss </a>list I should have it working now. People on Windows, <a href="mailto:sbwoodside@yahoo.com">what do you think </a>? I won't see what it looks like until Tuesday, or maybe after the new year. 

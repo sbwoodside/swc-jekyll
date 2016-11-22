@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+Today I fixed up the layout of the site a bit. Now more recent stuff is higher up in the list on the sidebar. I also added a new poem to the site, so I made a new section called Stories where you can find that and the old short story as well. 

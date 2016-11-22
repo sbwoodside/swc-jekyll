@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+<p>I just released the 0.01 (pre-alpha) version of <a href="dev/xml/alexandra">Alexandra </a>, a roundtripping forms system that uses RNG (Relax NG), XSLT pipelining (using AxKit of course...;-) and presents in HTML forms. There's an interactive demo to play with as well. </p>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: sed 
+---
+<p>This thrillingly exciting unix tool also has a great page about it, <a href="http://www.grymoire.com/Unix/Sed.html">Sed - An Introduction and Tutorial </a>. It starts with "The Awful Truth about sed" which is simple ... "the documentation is terrible". </p>

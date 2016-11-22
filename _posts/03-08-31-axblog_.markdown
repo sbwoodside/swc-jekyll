@@ -1,0 +1,5 @@
+---
+layout: post
+title: AxBlog 0.2
+---
+<p>An update of <a href="/dev/axkit/axblog.html">AxBlog </a>to what I use currently here and on openICT and semacode.org </p>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+Wow, this site is really ugly. I guess I should redesign it again. 

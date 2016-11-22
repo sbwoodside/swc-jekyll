@@ -1,0 +1,5 @@
+---
+layout: post
+title: 20000
+---
+My web counter from digits.com has just crossed 20000. Actual number, probably much higher, since digits seems to miss quite a few. While I'm at it, here are more details. I won't bother with "hits" since it's such a misleading number. But so far this month I've served about 400 pages and had about 100 visits ... per day. Maybe as much as half of those are hits on my rss.xml file though. By a long shot my biggest referrer this month has been google. With 91 hits for the search string "d" ? What does that mean. Other search strings I got a few times are "expat os x" which makes sense, "iambic quadrameter" which makes less sense. "libxml mac os x" and "sdk2unix" seem reasonable. <br /><br />Here's one that's interesting. Trivia, symbian is a british company. So, you know, those crazy brits (and canadians too) spell some words differently. So when I wrote up my solution to the symbian initialized data problem, I copy/pasted from the output and they use the spelling "initialised". I got a few hits for ".app has initialised data" (I'm first in google for that) (I'm second for just "has initialised data" (with the quotes)).

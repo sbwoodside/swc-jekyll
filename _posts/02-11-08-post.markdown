@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+<p>I made a mistake in the final copy of the IT Review Letter, so I <a href="/projects/itletter.html#update">corrected it </a>and re-sent it to the Review board. Fortunately just ahead of the deadline! </p>

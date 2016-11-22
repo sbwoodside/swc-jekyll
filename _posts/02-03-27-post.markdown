@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+I added a section for Dungeons &amp; Dragons (3rd edition) for info about my campaign. Also some links to some good stuff. See the sidebar.

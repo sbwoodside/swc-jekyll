@@ -1,0 +1,5 @@
+---
+layout: post
+title: gnupoc 
+---
+<p>The project named <a href="http://gnupoc.sourceforge.net/">GnuPoc </a>a Symbian SDK for GNU/Linux. What is this? It purports to allow you to develop all your Symbian C++ code on linux. I installed it this week on a fresh debian system. Installation, I have to say, was not exactly trivial. There didn't seem to be any particular HOWTO that covered the Nokia 1.2 SDK very closely. I installed, configured, and built the series60ex/helloworld project finally, got the thing to generate a .sis file, installed it on my 3650 and... nothing. "System Error". That's all. So what gives? I have no idea. </p><p>Now I'm starting to wonder if <em>anyone </em>has ever used gnupoc for a 3650 as the target. Seriously. Because all of the recent examples on google are for Sony-Ericsson phones like the p800 and p900. Dunno why that is. But apparently at least <a href="http://www.diku.dk/hjemmesider/ansatte/beaufour/programmingsymbian/node2.html">one person </a>has used it for 7650, which is basically the same phone as the 3650, so maybe there's some hope. </p>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: post 
+---
+<p>Just for the first time, I saw a posting on slashdot signed with a female name. (It was Allison.) This is the first time I can ever remember seeing that. </p>

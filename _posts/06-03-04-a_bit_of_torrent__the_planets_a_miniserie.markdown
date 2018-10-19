@@ -18,7 +18,7 @@ That's orbiting at nineteen miles a second, so it's reckoned,
 
 A sun that is the source of all our power.</blockquote>
 
-You'll find out in the first two episodes all about the geology of the solar system ‰ÛÓ volcanoes on Io, geysers on Titan, the resurfacing of Venus about 500 million years ago. So sorry, Mr. Python, but the sun isn't the source of all our power. 
+You'll find out in the first two episodes all about the geology of the solar system – volcanoes on Io, geysers on Titan, the resurfacing of Venus about 500 million years ago. So sorry, Mr. Python, but the sun isn't the source of all our power. 
 
 What's good about The Planets? It's got amazing archive footage that I've never seen of space exploration. It presents images as they were seen through time, so your picture of each planet progresses from the dim blobs that they knew just 40 years ago to the detailed maps that we now have from fly-bys and orbiting explorers. The computer animation is also good, although a bit of a 90s plastic feel to the solid planets. And heavy on the particle effects, which were pretty novel at the time. 
 
@@ -26,6 +26,6 @@ My biggest problem with this series is the totally lousy music. Unlike most BBC 
 
 But overall the visuals are amazing, the narration is solid, the footage is fascinating, and it's pretty thorough. 
 
-The best source I found was created by <a href="http://www.mvgroup.org/">MVGroup </a>‰ÛÓ&#160; You can get it most easily from <a href="http://www.mininova.org/">mininova </a>. Here's <a href="http://www.mininova.org/get/197303">The Planets episode 1 of 8, Different Worlds </a>... and here's <a href="http://www.mininova.org/search/?search=planets+bbc">All episodes of The Planets </a>. 
+The best source I found was created by <a href="http://www.mvgroup.org/">MVGroup </a>–&#160; You can get it most easily from <a href="http://www.mininova.org/">mininova </a>. Here's <a href="http://www.mininova.org/get/197303">The Planets episode 1 of 8, Different Worlds </a>... and here's <a href="http://www.mininova.org/search/?search=planets+bbc">All episodes of The Planets </a>. 
 
 Till next time, bye bye.

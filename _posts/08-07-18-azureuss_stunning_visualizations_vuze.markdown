@@ -14,7 +14,7 @@ What you've got there is downloading torrents at the top and finished ones at th
 
 <img alt="Azureus peers" src="/weblog/images/2008/azureus/peers.png" />
 
-Suppose I want to zoom in on one particular torrent ‰ÛÓ double click on it. This shows each of the peers I'm connected to. What pieces of the file do they have? How far complete are they in total? Bittorrent downloads files in chunks and it does the chunks randomly, not from start to end, so this information can be interesting.
+Suppose I want to zoom in on one particular torrent – double click on it. This shows each of the peers I'm connected to. What pieces of the file do they have? How far complete are they in total? Bittorrent downloads files in chunks and it does the chunks randomly, not from start to end, so this information can be interesting.
 
 <img alt="Azureus Pieces" src="/weblog/images/2008/azureus/pieces.png" />
 
@@ -30,7 +30,7 @@ This one is your overall bandwidth monitor:
 
 <img alt="Azureus activity" src="/weblog/images/2008/azureus/activity.png" />
 
-Nice. I love staring at this one. It's a really good example about how to cleanly show multiple related variables in a time-based chart (aka histogram). For the top one, the blue filled area is your download speed. Really interesting is the gray line, which is the average download speed of the SWARM. In other words, what is your average peer getting? If you're below this line, then you're getting screwed ‰ÛÓ or there's something wrong with your configuration. If you're above it, you're doing well. It's a good way to get a quick fix on the health of your downloads as compared to other users. It also makes it really easy to see if you're being rate-limited by your ISP.
+Nice. I love staring at this one. It's a really good example about how to cleanly show multiple related variables in a time-based chart (aka histogram). For the top one, the blue filled area is your download speed. Really interesting is the gray line, which is the average download speed of the SWARM. In other words, what is your average peer getting? If you're below this line, then you're getting screwed – or there's something wrong with your configuration. If you're above it, you're doing well. It's a good way to get a quick fix on the health of your downloads as compared to other users. It also makes it really easy to see if you're being rate-limited by your ISP.
 
 On the bottom half, you can see that I've enabled Auto-Speed and it's automatically cranking the max upload speed up and down based on measuring my bandwidth and other factors that I'm not too clear on.
 

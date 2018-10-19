@@ -20,9 +20,9 @@ Not that anyone at Microsoft technical support has ever heard of ssh. They've he
 
 Eventually, after about an hour, Michael tried to punt me to the Windows networking team. Now, I already know this is not a windows problem. Why? Because I tried the same thing in Linux and had the same problem. I knew he was trying to get rid of me and Windows people would not be able to help so I asked to speak to his supervisor. He connected me quickly. Finally, I thought, I was getting somewhere. 
 
-The supervisor's name is Kal "manager for support". Kal had the mistaken impression from Michael's write- up, that all I wanted to do was telnet. No, I patiently explained, I want to be able to do full networking back and forth between guest and host ‰ÛÓ file sharing, telnet, even browsing web servers I would set up on the opposite virtual system. Kal said he'd look into it and call me back. 
+The supervisor's name is Kal "manager for support". Kal had the mistaken impression from Michael's write- up, that all I wanted to do was telnet. No, I patiently explained, I want to be able to do full networking back and forth between guest and host – file sharing, telnet, even browsing web servers I would set up on the opposite virtual system. Kal said he'd look into it and call me back. 
 
-That takes me to today with the call back from Daniel. Daniel was pessimistic from the start. He'd never heard of ssh either, and he wanted to try something "simpler" ‰ÛÓ windows networking. At this point I realized I wasn't going to get anywhere. He then proceeded to disclaim for a while that it wasn't really supported anyway. 
+That takes me to today with the call back from Daniel. Daniel was pessimistic from the start. He'd never heard of ssh either, and he wanted to try something "simpler" – windows networking. At this point I realized I wasn't going to get anywhere. He then proceeded to disclaim for a while that it wasn't really supported anyway. 
 
 So, Virtual PC doesn't support networking. Who knew? I should ask for my money back. 
 

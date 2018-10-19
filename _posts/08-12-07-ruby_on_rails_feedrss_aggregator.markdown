@@ -38,6 +38,6 @@ And the migration:
 
 <pre><br />class CreateCachedFeeds &lt; ActiveRecord::Migration<br />  def self.up<br />    create_table :cached_feeds do |t|<br />      t.column :uri, :string, :limit =&gt; 2048<br />      t.column :parsed_feed, :text, :limit =&gt; 128.kilobytes # use for serialized object<br />      t.timestamps<br />    end<br />  end<br /><br />  def self.down<br />    drop_table :cached_feeds<br />  end<br />end</pre>
 
-Well, that's all you need. When I started out to make this I thought I'd find a simple example out there but there wasn't anything. It turns out that there's a number of interesting challenges ‰ÛÓ picking a parser to deal with difficult feeds, XML, and malformatted XML... to deal with caching ... to deal with background processing. Took me a while to get it all just right.
+Well, that's all you need. When I started out to make this I thought I'd find a simple example out there but there wasn't anything. It turns out that there's a number of interesting challenges – picking a parser to deal with difficult feeds, XML, and malformatted XML... to deal with caching ... to deal with background processing. Took me a while to get it all just right.
 
 It powers my own front page ... consider to be under standard ruby open source license. As the vending machine says: Share And Enjoy!

@@ -2,4 +2,6 @@
 layout: post
 title: post 
 ---
-<p>Draft of an <a href="/writings/itletter.html">Open Letter </a>to the IT Review board at the University of Waterloo. You can print a nice copy directly from the page if you have a web-standards compliant browser (try it) that can handle CSS2. </p>
+
+
+Draft of an <a href="/writings/itletter.html">Open Letter </a>to the IT Review board at the University of Waterloo. You can print a nice copy directly from the page if you have a web-standards compliant browser (try it) that can handle CSS2.

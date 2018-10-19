@@ -2,4 +2,6 @@
 layout: post
 title: post 
 ---
-<p>Well, the transcript project seems to be dead after getting a good 40 minutes down on paper. However, today I bring you an <a href="/dnd">updated D&amp;D subsite </a>... ye-haw! OK, there's no new content, but the <a href="/dnd/campaign/sourcebook/">Edion Handbook </a>is substantially easier to navigate and read online now, and the pages are streamlined. </p>
+
+
+Well, the transcript project seems to be dead after getting a good 40 minutes down on paper. However, today I bring you an <a href="/dnd">updated D&amp;D subsite </a>... ye-haw! OK, there's no new content, but the <a href="/dnd/campaign/sourcebook/">Edion Handbook </a>is substantially easier to navigate and read online now, and the pages are streamlined.

@@ -2,4 +2,6 @@
 layout: post
 title: post 
 ---
-<p>Updated the ol' site design. Yeah, it looks exactly the same in most browsers, but it's now fully good-looking in Mozilla (on OS X) and it's better designed. Most of the pages meet the W3C spec so I added that to the bottom. </p>
+
+
+Updated the ol' site design. Yeah, it looks exactly the same in most browsers, but it's now fully good-looking in Mozilla (on OS X) and it's better designed. Most of the pages meet the W3C spec so I added that to the bottom.

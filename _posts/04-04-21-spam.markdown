@@ -2,4 +2,12 @@
 layout: post
 title: spam 
 ---
-<p>The idea that legislation is useless against spam has <a href="http://patrickweb.com/weblog/categories/people/up_to.html">reappeared </a>on my radar. It's a ridiculous notion. Many spammers are operating in the open and they need to be caught and fined and shut down. Nay-sayers on spam legislation argue that there are too many spammers, that they'll just move off-shore and make it harder to catch them. Harder? If you're not trying to catch them in the first place, there is no harder. </p><p>As for pushing them offshore, fine. That just makes it that much easier to stop the spam. If it's coming from certain countries it's easier for technological measures to identify the spam and kill it off. </p><p>Meanwhile, you get double benefit. First you get to make some government revenue off the backs of spammers. Secondly you create a situation where technological measures can actually have some teeth. It's all well and good to block spam at the local network level but it's far better to stop the spam at the source. And spam blocking tools can help identify the source and aid in prosecution. </p><p>So the idea that anti-spam law is pointless is misguided and misses the big picture. What we need is a broad spectrum approach to killing spam. Meanwhile I'll continue to appreciate the fantastic spam filter in OS X's Mail.app. </p>
+
+
+The idea that legislation is useless against spam has <a href="http://patrickweb.com/weblog/categories/people/up_to.html">reappeared </a>on my radar. It's a ridiculous notion. Many spammers are operating in the open and they need to be caught and fined and shut down. Nay-sayers on spam legislation argue that there are too many spammers, that they'll just move off-shore and make it harder to catch them. Harder? If you're not trying to catch them in the first place, there is no harder. 
+
+As for pushing them offshore, fine. That just makes it that much easier to stop the spam. If it's coming from certain countries it's easier for technological measures to identify the spam and kill it off. 
+
+Meanwhile, you get double benefit. First you get to make some government revenue off the backs of spammers. Secondly you create a situation where technological measures can actually have some teeth. It's all well and good to block spam at the local network level but it's far better to stop the spam at the source. And spam blocking tools can help identify the source and aid in prosecution. 
+
+So the idea that anti-spam law is pointless is misguided and misses the big picture. What we need is a broad spectrum approach to killing spam. Meanwhile I'll continue to appreciate the fantastic spam filter in OS X's Mail.app.

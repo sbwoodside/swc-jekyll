@@ -2,4 +2,8 @@
 layout: post
 title: SoBig.F 
 ---
-<p>Not only does this virus generate annoying quantities of spam from a single source, but it also causes stupid virus scanners to generate annoying replies to the wrong people. Something along the line of "your email was rejected because it contained a virus". Don't they realize that the sender address was forged? Grr. </p><p>But then I wasn't hit so bad. I "only" got about 100 messages when the virus hit. I've seen others who got thousands. Also I'm immune since it's a microsoft email virus only. </p>
+
+
+Not only does this virus generate annoying quantities of spam from a single source, but it also causes stupid virus scanners to generate annoying replies to the wrong people. Something along the line of "your email was rejected because it contained a virus". Don't they realize that the sender address was forged? Grr. 
+
+But then I wasn't hit so bad. I "only" got about 100 messages when the virus hit. I've seen others who got thousands. Also I'm immune since it's a microsoft email virus only.

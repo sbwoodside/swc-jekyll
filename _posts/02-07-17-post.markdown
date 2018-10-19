@@ -2,4 +2,6 @@
 layout: post
 title: post 
 ---
-<p>Updated the layout of the site and a bunch of the miscellaneous pages. I discarded some of the really old stuff. You might also want to check out <a href="http://www.semacode.org">Semacode </a>. Or, you might not. </p>
+
+
+Updated the layout of the site and a bunch of the miscellaneous pages. I discarded some of the really old stuff. You might also want to check out <a href="http://www.semacode.org">Semacode </a>. Or, you might not.

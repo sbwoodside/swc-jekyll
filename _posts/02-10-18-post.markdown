@@ -2,4 +2,6 @@
 layout: post
 title: post 
 ---
-<p>What the heck happened to this website? Well, if your answer is nothing, then congratulations, you are using a standards-compliant browser (XHTML and CSS2). If your answer is anything else, get a new browser. I redid the site in CSS2 and XHTML, and, wow, isn't it nice to get rid of all that tables crap? The only thing I don't like about XHTML is that I have to close all of my paragraphs. Oh yeah, I only did the root pages, so the FTX and D&D pages won't verify until I get around to them. </p>
+
+
+What the heck happened to this website? Well, if your answer is nothing, then congratulations, you are using a standards-compliant browser (XHTML and CSS2). If your answer is anything else, get a new browser. I redid the site in CSS2 and XHTML, and, wow, isn't it nice to get rid of all that tables crap? The only thing I don't like about XHTML is that I have to close all of my paragraphs. Oh yeah, I only did the root pages, so the FTX and D&D pages won't verify until I get around to them.

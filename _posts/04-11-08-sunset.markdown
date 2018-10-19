@@ -2,4 +2,6 @@
 layout: post
 title: Sunset 
 ---
-<div class="floating_left"><a href="/weblog/images/2004/sunset.jpg"><img src="/weblog/images/2004/sunset_small.jpg" alt="sunset" /></a></div><p>Check out this sunset picture I snapped with my Nokia 7610. Not bad eh? The large sized image is HUGE... it's amazing that megapixel really does mean big. Now, it has artifacts in the dark parts of the image which I attribute to low light. I can't remember if I had night mode on or not (I think not, it seems to be geared towards REALLY dark shots). For the small sized one here, I applied some blur before I shrunk the image to make the house look better. </p>
+<div class="floating_left"><a href="/weblog/images/2004/sunset.jpg"><img src="/weblog/images/2004/sunset_small.jpg" alt="sunset" /></a></div>
+
+Check out this sunset picture I snapped with my Nokia 7610. Not bad eh? The large sized image is HUGE... it's amazing that megapixel really does mean big. Now, it has artifacts in the dark parts of the image which I attribute to low light. I can't remember if I had night mode on or not (I think not, it seems to be geared towards REALLY dark shots). For the small sized one here, I applied some blur before I shrunk the image to make the house look better.

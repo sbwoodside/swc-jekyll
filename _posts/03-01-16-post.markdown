@@ -2,4 +2,6 @@
 layout: post
 title: post 
 ---
-<p>What do you think of this <a href="http://simonwoodside.com/dev/chimera/mockup5a.gif">hypothetical user interface </a>for <a href="http://mozilla.org/projects/chimera/">Chimera </a>? </p>
+
+
+What do you think of this <a href="http://simonwoodside.com/dev/chimera/mockup5a.gif">hypothetical user interface </a>for <a href="http://mozilla.org/projects/chimera/">Chimera </a>?

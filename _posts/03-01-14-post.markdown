@@ -2,4 +2,6 @@
 layout: post
 title: post 
 ---
-<p>Looks like I'm <a href="http://diveintomark.org/archives/2003/01/13.html#semantic_obsolescence">not the only person </a>"switching" back to HTML 4.01. <a href="http://www.hixie.ch/advocacy/xhtml">Here's why </a>I did it. Oh yeah, and because actually everything's XML on the back end now and it just gets converted into HTML 4 at the very last minute by an automatic process that's part of XSLT. Actually on the server side, all of my markup being served by AxKit is either my own custom XML or XHTML right now. If you care. </p>
+
+
+Looks like I'm <a href="http://diveintomark.org/archives/2003/01/13.html#semantic_obsolescence">not the only person </a>"switching" back to HTML 4.01. <a href="http://www.hixie.ch/advocacy/xhtml">Here's why </a>I did it. Oh yeah, and because actually everything's XML on the back end now and it just gets converted into HTML 4 at the very last minute by an automatic process that's part of XSLT. Actually on the server side, all of my markup being served by AxKit is either my own custom XML or XHTML right now. If you care.

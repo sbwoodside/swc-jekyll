@@ -2,4 +2,6 @@
 layout: post
 title: post 
 ---
-<p>Some very smart stuff about <a href="http://www.searls.com/presentations/jabberconf_jun02/">software and infrastructure </a>. </p>
+
+
+Some very smart stuff about <a href="http://www.searls.com/presentations/jabberconf_jun02/">software and infrastructure </a>.

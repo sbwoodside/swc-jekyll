@@ -2,4 +2,6 @@
 layout: post
 title: post 
 ---
-<p>Now I've added another style sheet to support printing. Try printing this page or just use print preview. Oh yeah, also I installed a hack on the left-hand navbox sidebar, so that it won't leave trails behind in Chimera (it's called hackbox if you care). Oh yeah, I looked at this page on a windows with IE 6 (on XP) and it was horrible. If you're on windows, check out <a href="http://www.mozilla.org/projects/phoenix/phoenix-release-notes.html">Phoenix </a>which is a Mozilla variant. </p>
+
+
+Now I've added another style sheet to support printing. Try printing this page or just use print preview. Oh yeah, also I installed a hack on the left-hand navbox sidebar, so that it won't leave trails behind in Chimera (it's called hackbox if you care). Oh yeah, I looked at this page on a windows with IE 6 (on XP) and it was horrible. If you're on windows, check out <a href="http://www.mozilla.org/projects/phoenix/phoenix-release-notes.html">Phoenix </a>which is a Mozilla variant.

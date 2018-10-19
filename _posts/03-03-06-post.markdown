@@ -2,4 +2,8 @@
 layout: post
 title: post 
 ---
-<blockquote><p>Many experts like, for example, Bob Metcalfe, the inventor of Ethernet, thought the Internet would collapse. Why does the Internet not collapse? Because everyone has an incentive not to go to a court, and not to go to a government when someone is preventing their packet from getting from A to B. If their packet doesn't get from A to B, they have an incentive to route around it. The Internet treats these things as damage and routes around them. If we decentralize the decision-making process to the participants in the market in real time, as opposed to assuming that ahead of time they can decide what the value is and transact. </p></blockquote><p><a href="http://werbach.com/docs/spectrum_conf_comments.html">Kevin Werbach speaks </a>at the Stanford Spectrum Conference. </p>
+<blockquote>
+
+Many experts like, for example, Bob Metcalfe, the inventor of Ethernet, thought the Internet would collapse. Why does the Internet not collapse? Because everyone has an incentive not to go to a court, and not to go to a government when someone is preventing their packet from getting from A to B. If their packet doesn't get from A to B, they have an incentive to route around it. The Internet treats these things as damage and routes around them. If we decentralize the decision-making process to the participants in the market in real time, as opposed to assuming that ahead of time they can decide what the value is and transact.</blockquote>
+
+<a href="http://werbach.com/docs/spectrum_conf_comments.html">Kevin Werbach speaks </a>at the Stanford Spectrum Conference.

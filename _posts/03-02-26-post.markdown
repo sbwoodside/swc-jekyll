@@ -2,4 +2,6 @@
 layout: post
 title: post 
 ---
-<p>Some recent stuff. <a href="http://openict.net/projects/wireless-longhaul/">The wireless-longhaul mailing list </a>hosted at <a href="http://openict.net/">OpenICT.net </a>(a new site). The <a href="http://longship.sourceforge.net/">Longship project </a>to do community development on Chimera. If paul ever gets AxKit 1.6.1 installed :-P then I'll be able to update openict.net with some nifty new axkit features. </p>
+
+
+Some recent stuff. <a href="http://openict.net/projects/wireless-longhaul/">The wireless-longhaul mailing list </a>hosted at <a href="http://openict.net/">OpenICT.net </a>(a new site). The <a href="http://longship.sourceforge.net/">Longship project </a>to do community development on Chimera. If paul ever gets AxKit 1.6.1 installed :-P then I'll be able to update openict.net with some nifty new axkit features.

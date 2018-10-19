@@ -2,4 +2,6 @@
 layout: post
 title: post 
 ---
-<p>It's a bit of a ramble, but <a href="http://www.mindjack.com/feature/spin.html">The Realities of Online Reputation Management </a>gives a very, very intelligent cross-section analysis of why the internet changes the world. </p>
+
+
+It's a bit of a ramble, but <a href="http://www.mindjack.com/feature/spin.html">The Realities of Online Reputation Management </a>gives a very, very intelligent cross-section analysis of why the internet changes the world.

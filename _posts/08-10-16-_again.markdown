@@ -2,4 +2,62 @@
 layout: post
 title: How to program a computer, for children ... II
 ---
-<p>A while ago I wrote <a href="/weblog/2005/3/25/how_to_program_a_computer_for_children/">"How to program a computer, for children"</a>. I was actually inspired by <a href="http://theorem.ca/%7Emy2iu/">Ming's</a> efforts along the same lines. I just read it and decided to take a slightly different tack, doing it all with math (since programming is all math anyway).</p><p>Incidentally... <a href="http://whytheluckystiff.net/">why</a> has a rather bizarre system called Shoes which is apparently supposed to teach children to program but I suspect might frighten them instead. For adults, you have surely read his <a href="http://poignantguide.net/ruby/">guide to ruby</a> ... right?!?!?!</p><h2>And here we go.</h2><p>Programming a computer is a lot like writing instructions for someone really, really stupid. Imagine a person who knows nothing. They don't know how to walk, talk, read, or write. In fact, the only thing that they know to do at all is simple arithmetic. They can add, subtract, multiply, and divide any number at all. But that's all. They can't do anything else without being told how to do it in the form of math.</p><p>So, to get a computer to do something, you must turn it into math. Let's say you want to get a computer to go around the room. First you have to explain what "go" means in terms of math. Then what "around" means... in terms of math. And what is "a room" ... that's not math yet, so computers don't know what it is.</p><p>Well, let's start with "go". Let's give it a try:</p><pre>How to "go":<br />1. increase the total number of footsteps that you have ever taken in your life, by 1.</pre><p>See how I turned that into math? That's how computers think. Unfortunately, computers don't know what feet are either. But that's OK. For now, we'll assume that someone else has already built a foot for our computer, and when we tell it to increase by 1, it will know what to do. In computer language, this would be:</p><pre>totalNumberOfSteps += 1</pre><p>Now it's not completely true that computers can only do math. They can also repeat the same thing over and over again, like a mindless machine. It's called a "loop". If we just take one step, that's not really "going" very far. Instead let's have the computer "go" further.</p><pre>How to "go":<br />1. totalNumberOfSteps += 1<br />2. do that over and over again</pre><p>Since the computer is mindless, it will do this forever, so we can rewrite this into computer language like this:</p><pre>1. totalNumberOfSteps += 1<br />2. repeat forever</pre><p>OK, so now the computer goes. But will it ever stop? I don't know... if it has an atomic power plant, it might be millions of years before it stops. And in that time, it will grind its way through even the thickest of reinforced concrete walls. And it will never go "around" the room because it can only go forward.</p><p>So maybe we ought to give the computer a way to measure how far it's moved. Let's say it's got a little measuring wheel that touches the floor. Whenever it takes a step, the wheel clicks around a little more. In fact, it's just like an odometer on a car, that tells you how far the car has ever gone.</p><p>That's all fine, but how can the computer know if it moved? Remember it can only do math and repeat things. Well, the guy who made the odometer gives us two number:</p><pre>odometerReadingBeforeTheStep<br />odometerReadingAfterTheStep</pre><p>Clearly, if the "After" number is more than the "before" number, then we moved forward without hitting a wall. If not, we're stuck. We can use some fancy math to write this down:</p><pre>odometerReadingAfterTheStep &gt; odometerReadingBeforeTheStep</pre><p>That just means that the number of the left is bigger (&gt;) than the number of the right.</p><p>OK... so does that help us? How do we fit that into steps 1 and 2? Another little trick that computers can pull is to check some math before they take a step. So they can (a) do math (b) repeat things (c) check math.</p><p>It works like this:</p><pre>if 1 == 1 then oneIsEqualToOne += 1</pre><p>That's a pretty stupid example, but you know, 1 is "equal to" (==) 1, in math, that's true. So, oneIsEqualToOne will be put up by one number.</p><p>We can use that for our robot to. Can you see how yet?</p><pre>1. totalNumberOfSteps += 1<br />2. repeat if ...</pre><p>If what? Remember the odometer?</p><pre>1. totalNumberOfSteps += 1<br />2. repeat if odometerReadingAfterTheStep &gt; odometerReadingBeforeTheStep</pre><p><br />Pretty simple. Add a step, and then do it again if the odometer shows you moved forward. If it doesn't, the computer just stops, because it has no more instructions. That's called "halting". When the program halts, you check it's progress. In this case, it will have walked into a wall. And then stopped. Always. That may not sound like much, but we're halfway to getting around the room.</p>
+
+
+A while ago I wrote <a href="/weblog/2005/3/25/how_to_program_a_computer_for_children/">"How to program a computer, for children"</a>. I was actually inspired by <a href="http://theorem.ca/%7Emy2iu/">Ming's</a> efforts along the same lines. I just read it and decided to take a slightly different tack, doing it all with math (since programming is all math anyway).
+
+Incidentally... <a href="http://whytheluckystiff.net/">why</a> has a rather bizarre system called Shoes which is apparently supposed to teach children to program but I suspect might frighten them instead. For adults, you have surely read his <a href="http://poignantguide.net/ruby/">guide to ruby</a> ... right?!?!?!
+
+<h2>And here we go.</h2>
+
+Programming a computer is a lot like writing instructions for someone really, really stupid. Imagine a person who knows nothing. They don't know how to walk, talk, read, or write. In fact, the only thing that they know to do at all is simple arithmetic. They can add, subtract, multiply, and divide any number at all. But that's all. They can't do anything else without being told how to do it in the form of math.
+
+So, to get a computer to do something, you must turn it into math. Let's say you want to get a computer to go around the room. First you have to explain what "go" means in terms of math. Then what "around" means... in terms of math. And what is "a room" ... that's not math yet, so computers don't know what it is.
+
+Well, let's start with "go". Let's give it a try:
+
+<pre>How to "go":<br />1. increase the total number of footsteps that you have ever taken in your life, by 1.</pre>
+
+See how I turned that into math? That's how computers think. Unfortunately, computers don't know what feet are either. But that's OK. For now, we'll assume that someone else has already built a foot for our computer, and when we tell it to increase by 1, it will know what to do. In computer language, this would be:
+
+<pre>totalNumberOfSteps += 1</pre>
+
+Now it's not completely true that computers can only do math. They can also repeat the same thing over and over again, like a mindless machine. It's called a "loop". If we just take one step, that's not really "going" very far. Instead let's have the computer "go" further.
+
+<pre>How to "go":<br />1. totalNumberOfSteps += 1<br />2. do that over and over again</pre>
+
+Since the computer is mindless, it will do this forever, so we can rewrite this into computer language like this:
+
+<pre>1. totalNumberOfSteps += 1<br />2. repeat forever</pre>
+
+OK, so now the computer goes. But will it ever stop? I don't know... if it has an atomic power plant, it might be millions of years before it stops. And in that time, it will grind its way through even the thickest of reinforced concrete walls. And it will never go "around" the room because it can only go forward.
+
+So maybe we ought to give the computer a way to measure how far it's moved. Let's say it's got a little measuring wheel that touches the floor. Whenever it takes a step, the wheel clicks around a little more. In fact, it's just like an odometer on a car, that tells you how far the car has ever gone.
+
+That's all fine, but how can the computer know if it moved? Remember it can only do math and repeat things. Well, the guy who made the odometer gives us two number:
+
+<pre>odometerReadingBeforeTheStep<br />odometerReadingAfterTheStep</pre>
+
+Clearly, if the "After" number is more than the "before" number, then we moved forward without hitting a wall. If not, we're stuck. We can use some fancy math to write this down:
+
+<pre>odometerReadingAfterTheStep &gt; odometerReadingBeforeTheStep</pre>
+
+That just means that the number of the left is bigger (&gt;) than the number of the right.
+
+OK... so does that help us? How do we fit that into steps 1 and 2? Another little trick that computers can pull is to check some math before they take a step. So they can (a) do math (b) repeat things (c) check math.
+
+It works like this:
+
+<pre>if 1 == 1 then oneIsEqualToOne += 1</pre>
+
+That's a pretty stupid example, but you know, 1 is "equal to" (==) 1, in math, that's true. So, oneIsEqualToOne will be put up by one number.
+
+We can use that for our robot to. Can you see how yet?
+
+<pre>1. totalNumberOfSteps += 1<br />2. repeat if ...</pre>
+
+If what? Remember the odometer?
+
+<pre>1. totalNumberOfSteps += 1<br />2. repeat if odometerReadingAfterTheStep &gt; odometerReadingBeforeTheStep</pre>
+
+<br />Pretty simple. Add a step, and then do it again if the odometer shows you moved forward. If it doesn't, the computer just stops, because it has no more instructions. That's called "halting". When the program halts, you check it's progress. In this case, it will have walked into a wall. And then stopped. Always. That may not sound like much, but we're halfway to getting around the room.

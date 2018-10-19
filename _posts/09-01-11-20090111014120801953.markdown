@@ -2,4 +2,32 @@
 layout: post
 title: iphone objective-c pain ... give me ruby, bastards!
 ---
-<p>I'm writing an iPhone app in Cocoa Objective-C and really wishing that I could be writing it in Ruby instead (cocoa-ruby on iphone anyone?).</p><p>Take this one line:</p><pre>&#160;&nbsp;&nbsp; if( ! [foo isEqualToString:bar] ) {</pre><p>Oh yeah, I can really tell what that does by glancing at it... not! But here's the equivalent ruby:</p><pre>&nbsp;&nbsp;&nbsp; unless foo == bar</pre><p>Shorter, more obvious, easier to write, easier to read and maintain. Why does Cocoa need to be so wordy? Even [foo equals:bar] would be better. But no, that would be too ... ambiguous. I don't know. isEqual: is defined in NSObject but who knows what highly dangerous or unexpected result it would have between two strings. Maybe it would only be true if they were the same pointers, or copy: results. No one in ObjC land seems to be thinking about making syntax easier for the programmers, do they? And why don't we have overloading???</p><p>For example, if we had method overloading, you could easily have different versions of equals: (or isEqual: if you must) that handle NSString*, NSWhatever*... of course this would require the compiler to be smarter, and the runtime to be smarter, and who uses Objective-C other than Apple ... no one, that's who. Hey, here's an idea -- why not ditch ObjC wholesale for Ruby? It's not like Ruby is going to be, you know, slower. Well, of course it will be slower in the C sections.</p><p>At least now with "Fast Enumeration" in Objective-C 2.0 we can do something like this:</p><pre>&nbsp;&nbsp;&nbsp; for( NSString * bird in [NSArray arrayWithObjects:@"owl", @"parrot", @"partridge", @"pigeon"] ) {</pre><p>Although again, it's really annoying that there's no convenience syntax for creating an array. How hard would it be? Not very hard, that's how hard. In Ruby it would be simply:</p><pre>&nbsp;&nbsp;&nbsp; for bird in ["owl", "parrot", "partridge", "pigeon"]</pre><p>At least we have convenience syntax for NSString * animal = @"Bandicoot" right? I suppose we should pray at the altar for that one and hope they never take it away...</p><p>Finally, I have to kiss good-bye to any kind of interesting use of first-order functions and closures. Technically Objective-C CAN actually do dynamic function calls at least, but it's so bloody wordy that I rarely use it unless forced to. I can't use the lovely map function in Objective-C which adds considerably to my line count.</p><p>But wait, <a href="http://www.mikeash.com/?page=pyblog/friday-qa-2008-12-26.html">Apple is adding closures?</a>&nbsp; ... why don't they spend the effort on making Ruby Cocoa better instead? Or maybe give me garbage collection on the bloody iPhone.</p>
+
+
+I'm writing an iPhone app in Cocoa Objective-C and really wishing that I could be writing it in Ruby instead (cocoa-ruby on iphone anyone?).
+
+Take this one line:
+
+<pre>&#160;&nbsp;&nbsp; if( ! [foo isEqualToString:bar] ) {</pre>
+
+Oh yeah, I can really tell what that does by glancing at it... not! But here's the equivalent ruby:
+
+<pre>&nbsp;&nbsp;&nbsp; unless foo == bar</pre>
+
+Shorter, more obvious, easier to write, easier to read and maintain. Why does Cocoa need to be so wordy? Even [foo equals:bar] would be better. But no, that would be too ... ambiguous. I don't know. isEqual: is defined in NSObject but who knows what highly dangerous or unexpected result it would have between two strings. Maybe it would only be true if they were the same pointers, or copy: results. No one in ObjC land seems to be thinking about making syntax easier for the programmers, do they? And why don't we have overloading???
+
+For example, if we had method overloading, you could easily have different versions of equals: (or isEqual: if you must) that handle NSString*, NSWhatever*... of course this would require the compiler to be smarter, and the runtime to be smarter, and who uses Objective-C other than Apple ... no one, that's who. Hey, here's an idea -- why not ditch ObjC wholesale for Ruby? It's not like Ruby is going to be, you know, slower. Well, of course it will be slower in the C sections.
+
+At least now with "Fast Enumeration" in Objective-C 2.0 we can do something like this:
+
+<pre>&nbsp;&nbsp;&nbsp; for( NSString * bird in [NSArray arrayWithObjects:@"owl", @"parrot", @"partridge", @"pigeon"] ) {</pre>
+
+Although again, it's really annoying that there's no convenience syntax for creating an array. How hard would it be? Not very hard, that's how hard. In Ruby it would be simply:
+
+<pre>&nbsp;&nbsp;&nbsp; for bird in ["owl", "parrot", "partridge", "pigeon"]</pre>
+
+At least we have convenience syntax for NSString * animal = @"Bandicoot" right? I suppose we should pray at the altar for that one and hope they never take it away...
+
+Finally, I have to kiss good-bye to any kind of interesting use of first-order functions and closures. Technically Objective-C CAN actually do dynamic function calls at least, but it's so bloody wordy that I rarely use it unless forced to. I can't use the lovely map function in Objective-C which adds considerably to my line count.
+
+But wait, <a href="http://www.mikeash.com/?page=pyblog/friday-qa-2008-12-26.html">Apple is adding closures?</a>&nbsp; ... why don't they spend the effort on making Ruby Cocoa better instead? Or maybe give me garbage collection on the bloody iPhone.

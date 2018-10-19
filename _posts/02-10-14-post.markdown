@@ -2,4 +2,6 @@
 layout: post
 title: post 
 ---
-<p>I just updated the flow of the site a bit by collapsing the Imprint section into the "writings" section. I also updated the Imprint section so that it's more <a href="/writings/imprint.html">complete and in chronological order </a>-- so those of you interested in reading the complete archive of S.W. Imprint stories will be very pleased I'm sure. </p>
+
+
+I just updated the flow of the site a bit by collapsing the Imprint section into the "writings" section. I also updated the Imprint section so that it's more <a href="/writings/imprint.html">complete and in chronological order </a>-- so those of you interested in reading the complete archive of S.W. Imprint stories will be very pleased I'm sure.

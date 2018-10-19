@@ -2,4 +2,6 @@
 layout: post
 title: post 
 ---
-<p>D&amp;D fans rejoice ... I just updated the <a href="/dnd/campaign/sourcebook/">Edion Sourcebook </a>as well. </p>
+
+
+D&amp;D fans rejoice ... I just updated the <a href="/dnd/campaign/sourcebook/">Edion Sourcebook </a>as well.

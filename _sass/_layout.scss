@@ -8,6 +8,8 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
+
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .site-title {
@@ -186,6 +188,7 @@
 
 .post-meta {
     font-size: $small-font-size;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: $grey-color;
 }
 

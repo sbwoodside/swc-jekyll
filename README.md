@@ -1,5 +1,9 @@
 # simonwoodside.com
 
-## Build & test
+## Test
 
     jekyll serve --watch
+
+## Build for deployment
+
+    jekyll build

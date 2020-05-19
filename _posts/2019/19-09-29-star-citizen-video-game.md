@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Star Citizen
+image: 2019/Star Citizen Constellation Cruising Over Cellin.jpg
+image_caption: In-game screenshot from Star Citizen Alpha 2.4.1. [flickr/mr.hasgaha](https://www.flickr.com/photos/hasgaha/28598365540)
 ---
-
-![Star Citizen: Constellation Cruising Over Cellin](/images/posts/2019/Star Citizen Constellation Cruising Over Cellin.jpg)
-*In-game screenshot from Star Citizen Alpha 2.4.1. [Image credit: flickr/mr.hasgaha](https://www.flickr.com/photos/hasgaha/28598365540)*
 
 It's been a long time since I've been excited about a video game.
 

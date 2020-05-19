@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Climate Change and the Covid-19 Pandmic
+title: Climate Change and the Covid-19 Pandemic
+image: 2020/clouds.jpeg
 ---
 
-I recently read an [opinion article in the local paper](https://www.thespec.com/opinion/contributors/2020/05/05/we-must-learn-critical-lessons-from-covid-19-about-climate-change.html) arguing – rightly – that that climate change is a much greater threat than the pandemic. But unfortunately it lead off by saying that climate change caused the pandemic.
+I recently read an [opinion article in the local paper](https://www.thespec.com/opinion/contributors/2020/05/05/we-must-learn-critical-lessons-from-covid-19-about-climate-change.html) arguing – rightly – that climate change is a much greater threat than the pandemic. But unfortunately it lead off by saying that climate change caused the pandemic:
 
 > Scientists have long told us to be much better prepared for a massive global pandemic.
 > We caused it. Too many people are making unsustainable demands on the limited resources of this planet (a.k.a. overshoot). Our current pandemic arises from massive deforestation, habitat fragmentation and increased urbanization.

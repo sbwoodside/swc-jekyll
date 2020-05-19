@@ -5,7 +5,14 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    {% if page.image %}<p><img src="/images/posts/{{ page.image }}" alt="Post image">{% endif %}
+    {% if page.image %}
+    <figure>
+      <img src="/images/posts/{{ page.image }}" alt="{{ page.image_caption }}" />
+      {% if page.image_caption %}
+      <figcaption class="post-meta">{{ page.image_caption | markdownify }}</figcaption>
+      {% endif %}
+    </figure>
+    {% endif %}
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
   </header>
 

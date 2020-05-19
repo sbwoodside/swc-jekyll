@@ -2,8 +2,8 @@
 
 ## Test
 
-    jekyll serve --watch
+    jekyll serve --incremental --watch
 
 ## Build for deployment
 
-    jekyll build
+    jekyll build --incremental

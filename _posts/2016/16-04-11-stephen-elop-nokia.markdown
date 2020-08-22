@@ -2,7 +2,7 @@
 layout: post
 title: Stephen Elop, Nokia, Microsoft, and the Trojan War
 ---
-"What happened to Nokia" I was just wondering obviously the answer is like BlackBerry they were
+"What happened to Nokia" I was just wondering. Obviously the answer is like BlackBerry they were
 blinded by the magnificence of their own operating system and didn't realize that they are a hardware
 company and can't write an OS for shit.
 
@@ -17,7 +17,7 @@ over to Windows Mobile and merge the two companies.
 I didn't get an honest answer, in case you're wondering.
 
 In case you missed the excitement, he was head of Microsoft's business division, where he seemed to be in his element.
-Nokia hired him as CEO when they finally they were unbelievable screwed because they had no workable plan to compete with the iPhone.
+Nokia hired him as CEO when they finally realized they were unbelievable screwed because they had no workable plan to compete with the iPhone.
 He wrote an infamous "Burning Platform" memo, switched them to the second-worst mobile OS, drove Nokia phones
 into the ground and arranged for it to be bought out by Microsoft — all in the brief period of 2 years.
 

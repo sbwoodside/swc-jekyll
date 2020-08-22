@@ -12,5 +12,17 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://simonwoodside.com" # the base hostname & protocol for your site
 twitter_username: Simon_Woodside
 
+# Pagination
+pagination:
+  enabled: true
+  per_page: 10
+  sort_reverse: true
+  trail: 
+    before: 3 # The number of links before the current page
+    after: 3  # The number of links after the current page
+
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-paginate-v2

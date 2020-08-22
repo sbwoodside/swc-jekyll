@@ -98,25 +98,21 @@
  * Pagination
  */
 
-.pagination a, .pagination span {
-    padding: 7px 18px;
-    border: 1px solid #eee;
-    margin-left: -2px;
-    margin-right: -2px;
-    background-color: #ffffff;
-    display: inline-block;
-  }
-
-.pagination a {    
-    &:hover {
-        background-color: #f1f1f1;
-        color: #333;
-    }
- }
-
-.pagination {
+ul.pager {
+    font-family: sans-serif;
+    font-size: small;
     text-align: center;
- }
+    list-style: none;
+}
+ul.pager li {
+    display: inline;
+    border: 1px solid black; 
+    padding: 10px; 
+    margin: 5px;
+}
+ul.pager li.selected { 
+    background-color: #eee; 
+}
 
 
 /**

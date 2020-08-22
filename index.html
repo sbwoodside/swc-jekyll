@@ -14,7 +14,12 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        <blockquote>{{ post.excerpt }}</blockquote>
+        <blockquote>
+          {% if post.image %}
+            <img src="{{ site.baseurl }}/images/posts/{{ post.image }}">
+          {% endif %}
+          {{ post.excerpt }}
+        </blockquote>
       </li>
     {% endfor %}
   </ul>

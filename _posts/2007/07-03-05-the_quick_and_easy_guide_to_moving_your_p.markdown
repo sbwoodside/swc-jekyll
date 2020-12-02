@@ -12,4 +12,6 @@ Go to a checked out copy of your cvs project and run <code>cvs admin -kb filenam
 
 Commit to CVS. 
 
-Assuming that you've got a simple CVS project with no branches that you want to keep, do this:<pre><code>./cvs2svn-1.5.1/cvs2svn --trunk-only -s project-name /path/to/cvs_repository/project-name mv project-name /path/to/svn_repository/ </code></pre>
+Assuming that you've got a simple CVS project with no branches that you want to keep, do this:
+
+<pre><code>./cvs2svn-1.5.1/cvs2svn --trunk-only -s project-name /path/to/cvs_repository/project-name mv project-name /path/to/svn_repository/ </code></pre>

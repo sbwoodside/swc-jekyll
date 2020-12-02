@@ -4,6 +4,8 @@ title: grr
 ---
 
 
-I just spent like an hour debugging this stupid problem with a resource file for symbian. Turns out when you get this error:<pre>&lt;empty&gt;(0) : Link name not found </pre>
+I just spent like an hour debugging this stupid problem with a resource file for symbian. Turns out when you get this error:
+
+<pre>&lt;empty&gt;(0) : Link name not found </pre>
 
 you have avkon.rsg included BEFORE avkon.rh. You need to include them in the OTHER order. At least now it will be in google.

@@ -10,6 +10,8 @@ title: A little ToneMatrix Music
 
 <a href="http://vimeo.com/8004647">Eine Kleine ToneMatrixMusik</a> from <a href="http://vimeo.com/user2746458">S Woodside</a> on <a href="http://vimeo.com">Vimeo</a>.
 
-You can also right-click on the <a href="http://lab.andre-michelle.com/tonematrix">ToneMatrix flash app</a> and copy/paste numerical sequences to load and save your music. The sequence for the above is:<pre>98386,1024,4096,1024,67474,96,65540,32768,65618,1024,64,0,65618,4,65600,0</pre>
+You can also right-click on the <a href="http://lab.andre-michelle.com/tonematrix">ToneMatrix flash app</a> and copy/paste numerical sequences to load and save your music. The sequence for the above is:
+
+<pre>98386,1024,4096,1024,67474,96,65540,32768,65618,1024,64,0,65618,4,65600,0</pre>
 
 Share and enjoy.

@@ -3,7 +3,6 @@ layout: post
 title: How to program a computer, for children 
 ---
 
-
 Part 1. Instructions 
 
 Programming a computer is a lot like writing instructions for someone really, really stupid. Imagine a person who knows nothing. They don't know how to walk, talk, read, or write. In fact, the only thing that they know to do at all is simple arithmetic. They can add, subtract, multiply, and divide any number at all. But that's all. They can't do anything else without being told how to do it. 
@@ -12,7 +11,9 @@ Programming a computer is a lot like writing instructions for someone really, re
 
 In order to get a computer to do something then, you must explain very carefully. Let's say you want to get a computer to go around the room. First you must explain to the computer what a room is. Then you must explain how to "go". Is it going to walk? Then you must explain how to walk as well. Let's give that a try. 
 
-How to walk:<pre>1. lean on your right foot 2. move your left foot forward 3. lean on your left foot 4. move your right foot forward </pre>
+How to walk:
+
+<pre>1. lean on your right foot 2. move your left foot forward 3. lean on your left foot 4. move your right foot forward </pre>
 
 Oops, that's not how to walk. That's how to take a single step. 
 
@@ -20,15 +21,21 @@ That's OK though, because writing instructions for computers is like taking baby
 
 What object takes a step? It's like a riddle. But the answer is, legs take a step. So we will call the object <code>Legs </code>. 
 
-What do the <code>Legs </code>do? They take a step. So, translate that into computerese, and we have,<pre>Legs.takeAStep() { 1. lean on your right foot 2. move your left foot forward 3. lean on your left foot 4. move your right foot forward } </pre>
+What do the <code>Legs </code>do? They take a step. So, translate that into computerese, and we have,
 
-Excellent! Try it out for yourself if you like. Now, taking a step is part of the API that you can use in your instructions. So you can add the first line of your instructions.<pre><code>1. Legs.takeAStep() </code></pre>
+<pre>Legs.takeAStep() { 1. lean on your right foot 2. move your left foot forward 3. lean on your left foot 4. move your right foot forward } </pre>
+
+Excellent! Try it out for yourself if you like. Now, taking a step is part of the API that you can use in your instructions. So you can add the first line of your instructions.
+
+<pre><code>1. Legs.takeAStep() </code></pre>
 
 That's a pretty good start, but it's not going to get the computer around the room. It knows how to take a step, but it doesn't know how to walk yet. Can you tell what's next? We need to tell the computer to repeat the previous steps over and over again. Fortunately computers know how to do that too. 
 
 * Things a computer knows how to do: 1. math 2. repeat 
 
-So we can add another line to your instructions.<pre>1. Legs.takeAStep() 2. repeat back to the beginning </pre>
+So we can add another line to your instructions.
+
+<pre>1. Legs.takeAStep() 2. repeat back to the beginning </pre>
 
 So now what happens. Remember, the computer is very, very dull. In it's slow, plodding mind it will read the instruction 1, and take a step. Then it will read instruction 2, and repeat line 1 again. Then it will repeat it again, and again, and again. And so it will take many steps forward. 
 
@@ -38,7 +45,9 @@ So now you must use your imagination, which is very important to have if you wan
 
 Answer? It will walk straight forward, into the wall. And then it will bounce off the wall, and walk into the wall again and again ... forever. 
 
-So, we must give the computer more instructions. The next thing to explain is how to avoid bouncing off the wall so many times. So let's add another step to your instructions.<pre>1. Legs.takeAStep() 2. repeat back to the beginning 3. turn left </pre>
+So, we must give the computer more instructions. The next thing to explain is how to avoid bouncing off the wall so many times. So let's add another step to your instructions.
+
+<pre>1. Legs.takeAStep() 2. repeat back to the beginning 3. turn left </pre>
 
 That's pretty good. Except there's one small problem. Can you guess what it is? 
 
@@ -58,4 +67,6 @@ Fortunately, computers aren't quite as stupid as I said before. They do know how
 
 * Things a computer knows how to do: 1. math 2. repeat 3. choose 
 
-Now can you think of a way to fix the bug? Well, when you explain to the computer how to walk around the room, ask it to make a choice before it repeats any step. Ask it to check and see if it's walked into a wall. It can tell if it did... but only if you ask to make a choice.<pre>1. Legs.takeAStep() 2. if you haven't hit a wall yet, repeat back to the beginning 3. turn left </pre>
+Now can you think of a way to fix the bug? Well, when you explain to the computer how to walk around the room, ask it to make a choice before it repeats any step. Ask it to check and see if it's walked into a wall. It can tell if it did... but only if you ask to make a choice.
+
+<pre>1. Legs.takeAStep() 2. if you haven't hit a wall yet, repeat back to the beginning 3. turn left </pre>

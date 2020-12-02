@@ -10,7 +10,7 @@ I'm on an enforced work holiday which gives me lots of time to blog. So aside fr
 
 The Camino Project is proud to announce the Camino 1.0 web browser, the culmination of four years of work by dedicated volunteers. 
 
-Designed exclusively for Mac OS X, Camino 1.0 is built on Mozilla‰Ûªs Gecko rendering engine and offers one of the fastest browsing experiences available. The only browser available that combines the rendering power of Gecko with the Aqua user interface, Camino 1.0 offers superior integration with the Mac platform and a focused feature set. Among Camino‰Ûªs signature features are elegant tabbed browsing, an enhanced bookmarks manager, and built-in ad-blocking.</blockquote>
+Designed exclusively for Mac OS X, Camino 1.0 is built on Mozilla's Gecko rendering engine and offers one of the fastest browsing experiences available. The only browser available that combines the rendering power of Gecko with the Aqua user interface, Camino 1.0 offers superior integration with the Mac platform and a focused feature set. Among Camino's signature features are elegant tabbed browsing, an enhanced bookmarks manager, and built-in ad-blocking.</blockquote>
 
 I helped to write that announcement. Snappy eh? Anyway, my last major involvement was back in, er, let me consult my new tag browser ... <a href="/weblog/2004/01/13">2004 when my history patch landed </a>. I wrote a major improvement to the history panel, which was crap before that. It's still not perfect, but just after that I got awfully busy with Semacode. 
 

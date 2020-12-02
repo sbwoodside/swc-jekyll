@@ -3,8 +3,9 @@ layout: post
 title: dailykos uses my graphic as the "open thread" image 
 ---
 
+I came up with this image yesterday when I was thinking about Disney's role in the fantasyland movie that ABC just broadcast (Disney owns ABC and apparently backed the film).
 
-I came up with this image yesterday when I was thinking about Disney's role in the fantasyland movie that ABC just broadcast (Disney owns ABC and apparently backed the film).<a href="http://www.flickr.com/photos/sbwoodside/238814340/"><img src="http://static.flickr.com/98/238814340_45aa9316f5_o.png" alt="Disney Politics Logo Hack - colour" height="288" width="383" /></a>
+<a href="http://www.flickr.com/photos/sbwoodside/238814340/"><img src="http://static.flickr.com/98/238814340_45aa9316f5_o.png" alt="Disney Politics Logo Hack - colour" height="288" width="383" /></a>
 
 To be honest, I just like the colours. I always thought this was a cool logo. But anyways, no more Mr. Nice Guy or whatever. I had a look at the font on their original logo and it looks to me like Rockwell Light so I had a go in PhotoShop and changed "Pictures" to "Politics". Now Disney can put this up on the front of all their political propaganda pieces. 
 

@@ -18,7 +18,9 @@ Also you get closure-like functionality, because inside run() you can access var
 
 You can also access global variables that change over time, and the closure will use whatever is the current value WHEN THE CLOSURE RUNS.
 
-There's just one small annoying thing, which is this particularly annoying compiler message:<pre>local variable (WHATEVER) is accessed from within inner class; needs to be declared final</pre>
+There's just one small annoying thing, which is this particularly annoying compiler message:
+
+<pre>local variable (WHATEVER) is accessed from within inner class; needs to be declared final</pre>
 
 If you were do change myString to not be final, you'd get that error. Bummer. You could make myString a global variable and that would work, but that's stupid. There is a better way. Try this: <strong>UPDATE: This doesn't work, see new version at the bottom, thanks commenter the.d-stro.</strong>
 

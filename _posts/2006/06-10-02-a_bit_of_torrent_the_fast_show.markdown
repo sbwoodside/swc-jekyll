@@ -14,6 +14,10 @@ Most of the best characters are played by <a href="http://www.imdb.com/name/nm09
 
 Anyway, definitely a top pick. Here are some links. There are 3 seasons. There's also some specials out there somewhere. 
 
-<a href="http://www.torrentspy.com/">TorrentSpy </a>:<ul><li><a href="http://www.torrentspy.com/download.asp?id=39250">The.Fast.Show.-.Season.1.torrent </a></li><li><a href="http://www.torrentspy.com/download.asp?id=39251">The.Fast.Show.-.Season.2.torrent </a></li><li><a href="http://www.torrentspy.com/download.asp?id=39252">The.Fast.Show.-.Season.3.torrent </a></li></ul>
+[TorrentSpy](http://www.torrentspy.com/) :
 
-<strong>UPDATE: </strong>... but don't bother with season three. It's a dog.
+*   [The.Fast.Show.-.Season.1.torrent](http://www.torrentspy.com/download.asp?id=39250)
+*   [The.Fast.Show.-.Season.2.torrent](http://www.torrentspy.com/download.asp?id=39251)
+*   [The.Fast.Show.-.Season.3.torrent](http://www.torrentspy.com/download.asp?id=39252)
+
+**UPDATE:** ... but don't bother with season three. It's a dog.

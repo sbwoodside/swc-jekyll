@@ -4,18 +4,35 @@ title: More flickr embedding, this time using the flickr badge
 ---
 
 
-So actually the <a href="http://www.flickr.com/badge_new.gne">flickr badge </a>code is pretty flexible. More than I realized before. I think It's better than the <a href="/weblog/2005/07/22">flash thing I tried before </a>. Here I will embed 10 random pictures from my trip to barcelona.<div><style type="text/css">div.flickr_badge_image { display: inline; margin: 0.4em; } </style><script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=10&amp;display=random&amp;size=s&amp;layout=x&amp;source=user_set&amp;user=20938094%40N00&amp;set=261728"/></div>
+So actually the [flickr badge](http://www.flickr.com/badge_new.gne) code is pretty flexible. More than I realized before. I think It's better than the [flash thing I tried before](/weblog/2005/07/22) . Here I will embed 10 random pictures from my trip to barcelona.
 
-You can click on them and go to the flickr page for the photo. 
+```
+<style type="text/css">div.flickr_badge_image { display: inline; margin: 0.4em; } </style>
+<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=10&amp;display=random&amp;size=s&amp;layout=x&amp;source=user_set&amp;user=20938094%40N00&amp;set=261728" />
+```
 
-And here's the code.<textarea rows="5" cols="50"><div><style type="text/css">div.flickr_badge_image { display: inline; margin: 0.4em; } </style><script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=10&amp;display=random&amp;size=s&amp;layout=x&amp;source=user_set&amp;user=20938094%40N00&amp;set=261728"/></div></textarea>
+You can click on them and go to the flickr page for the photo.
 
-And here's some more information about those options. You embed the options as URL query parameters.<ul><li>count=8 // or any other number </li><li>size={s,t,m} // square, thumbnail, mid-size </li><li>layout={v,h,x} // vertical, horizontal, none </li><li>user={#} // e.g. 20938094%40N00 for me </li><li>source={user_tag, user_set} // maybe other options </li></ul>
+And here's the code.
 
-If you set source to <code>user_tag </code>then you need to specify<ul><li>tag=barcelona // or some other tag </li></ul>
+```
+<div><style type="text/css">div.flickr_badge_image { display: inline; margin: 0.4em; } </style><script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=10&amp;display=random&amp;size=s&amp;layout=x&amp;source=user_set&amp;user=20938094%40N00&amp;set=261728"/></div>
+```
 
-If you set source to <code>user_set </code>then you need to give<ul><li>set={#} // e.g. 261728 for my barcelona set </li></ul>
+And here's some more information about those options. You embed the options as URL query parameters.
 
-For the CSS portion, they give you all kinds of extraneous CSS when you use the <a href="http://www.flickr.com/badge_new.gne">badge generator </a>that you don't need. Just set whatever you want for <code>div.flickr_badge_image </code>at a minimum. 
+*   count=8 // or any other number
+*   size={s,t,m} // square, thumbnail, mid-size
+*   layout={v,h,x} // vertical, horizontal, none
+*   user={#} // e.g. 20938094%40N00 for me
+*   source={user\_tag, user\_set} // maybe other options
 
-In order to discover the exact formatting and CSS classes and everything, you can open the URL for the script in your browser, and then look at the source. <a href="http://www.flickr.com/badge_code_v2.gne?count=10&amp;display=random&amp;size=s&amp;layout=x&amp;source=user_set&amp;user=20938094%40N00&amp;set=261728">here's mine for this particular example </a>.
+If you set source to `user_tag` then you need to specify
+
+*   tag=barcelona // or some other tag
+
+If you set source to `user_set` then you need to give
+
+*   set={#} // e.g. 261728 for my barcelona set
+
+For the CSS portion, they give you all kinds of extraneous CSS when you use the [badge generator](http://www.flickr.com/badge_new.gne) that you don't need. Just set whatever you want for `div.flickr_badge_image` at a minimum. In order to discover the exact formatting and CSS classes and everything, you can open the URL for the script in your browser, and then look at the source. [here's mine for this particular example](http://www.flickr.com/badge_code_v2.gne?count=10&display=random&size=s&layout=x&source=user_set&user=20938094%40N00&set=261728) .

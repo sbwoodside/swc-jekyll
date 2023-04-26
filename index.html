@@ -16,12 +16,11 @@ pagination:
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        <blockquote>
-          {% if post.image %}
-            <img src="{{ site.baseurl }}/images/posts/{{ post.image }}">
-          {% endif %}
-          {{ post.excerpt }}
-        </blockquote>
+        {% if post.image %}
+          <img src="{{ site.baseurl }}/images/posts/{{ post.image }}">
+        {% endif %}
+        {{ post.excerpt }}
+        <i>Read the rest of <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></i>
       </li>
     {% endfor %}
   </ul>

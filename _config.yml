@@ -7,10 +7,9 @@
 
 # Site settings
 title: Simon Says
-description: The weblog of Simon Woodside.
+description: The weblog of Simon Woodside
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://simonwoodside.com" # the base hostname & protocol for your site
-twitter_username: Simon_Woodside
 
 # Pagination
 pagination:

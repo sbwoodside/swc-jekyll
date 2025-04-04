@@ -4,5 +4,6 @@ title: About
 permalink: /about/
 ---
 
-- [LinkedIn profile](https://www.linkedin.com/in/simonwoodside/)
-- [Twitter @Simon_Woodside](https://twitter.com/simon_woodside)
+- LinkedIn has my professional profile and posts: [simonwoodside](https://www.linkedin.com/in/simonwoodside/)
+- Mastodon account: [@simonwoodside@mstdn.ca](https://mstdn.ca/@simonwoodside)
+
